@@ -20,6 +20,7 @@ As LLM prompt contexts get larger, developers face scaling API costs. Unintentio
 pip install rich
 # (Optional) For official Anthropic token metrics
 pip install anthropic
+````
 
 📊 Contribution & Roadmap
 This project aims to support local indie developers keeping their production bills low.
