@@ -20,3 +20,14 @@ As LLM prompt contexts get larger, developers face scaling API costs. Unintentio
 pip install rich
 # (Optional) For official Anthropic token metrics
 pip install anthropic
+
+📊 Contribution & Roadmap
+This project aims to support local indie developers keeping their production bills low.
+
+[x] Implement prompt optimization dashboard and real-time budget auditing (Done)
+
+[ ] Add support for custom System Prompt injection auditing
+
+[ ] Implement interactive shell mode
+
+[ ] Export cost history reports to CSV/JSON
